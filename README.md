@@ -27,3 +27,9 @@ pushpaysim/
 ├── tests/            # Simple tests
 ├── data/             # Sample transaction data
 ├── experiments/      # A/B testing notebook
+
+
+## 📸 Screenshots (optional)
+
+![PushPaySim Dashboard](dashboard/screenshot.png)
+
