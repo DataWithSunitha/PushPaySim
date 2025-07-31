@@ -33,8 +33,11 @@ pushpaysim/
 
 ## ✅ How to Run
 
-1. **Start the API** (in one terminal):
+ **Start the API** (in one terminal):
 
 ```bash
 uvicorn api.main:app --reload
+
+![PushPaySim Dashboard](dashboard/screenshot.png)
+
 
