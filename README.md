@@ -29,15 +29,4 @@ pushpaysim/
 ├── experiments/      # A/B testing notebook
 
 
----
-
-## ✅ How to Run
-
- **Start the API** (in one terminal):
-
-```bash
-uvicorn api.main:app --reload
-
-![PushPaySim Dashboard](dashboard/screenshot.png)
-
 
